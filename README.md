@@ -37,7 +37,7 @@ clear - Clear screen. Works only on linux, because it using system("clear")
 add <url here with backdoor param> - Add record to base. ID will be assigned automaticlly
 remove <id> - Remove backdoor with <id> from base
 show - Show all records from base
-sendto <id> <command> - Send command to **<id>** victim.
-send <command> - Send command to **all** victims.
+sendto <id> <command> - Send command to <id> victim.
+send <command> - Send command to all victims.
 
 ```
